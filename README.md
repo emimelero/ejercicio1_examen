@@ -2,4 +2,4 @@
 
 ## Ejercicio 1
 
-img ![alt text](imagen.png)
+![alt text](imagen-1.png)
